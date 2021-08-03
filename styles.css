@@ -49,3 +49,108 @@ body{
 .card-body{
     text-align: justify;
 }
+
+
+.btn{
+    text-decoration: none;
+    padding: 7px 15px;
+    border: 2px solid #9b9b9b00;
+    border-radius: 18px;
+    background-color: #9b9b9b;
+    color: #fff;
+}
+.btn:hover{
+    background-color: #7d7c7c;
+}
+
+
+.btn-blue{
+    background-color: #29C6D5;
+}
+.btn-blue:hover{
+    background-color: #23afbd;
+}
+.btn-blue:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #26bbca7587;
+    -moz-box-shadow: 0px 0px 0px 3px #26bbca75;
+    box-shadow: 0px 0px 0px 3px #26bbca75;
+}
+
+
+.btn-red{
+    background-color: #e31d1af0;
+}
+.btn-red:hover{
+    background-color: #E31D1A;
+}
+.btn-red:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #e31d1a8c;
+    -moz-box-shadow: 0px 0px 0px 3px #e31d1a8c;
+    box-shadow: 0px 0px 0px 3px #e31d1a8c;
+}
+
+
+.btn-yellow{
+    background-color: #F4C047;
+}
+.btn-yellow:hover{
+    background-color: #e2ac2d;
+}
+.btn-yellow:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #e2ac2d99;
+    -moz-box-shadow: 0px 0px 0px 3px #e2ac2d99;
+    box-shadow: 0px 0px 0px 3px #e2ac2d99;
+}
+
+
+.btn-green{
+    background-color: #008440f0;
+}
+.btn-green:hover{
+    background-color: #008440;
+}
+.btn-green:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #016933b0;
+    -moz-box-shadow: 0px 0px 0px 3px #016933b0;
+    box-shadow: 0px 0px 0px 3px #016933b0;
+}
+
+
+.btn-orange{
+    background-color: #ef6d51f2;
+}
+.btn-orange:hover{
+    background-color: #EF6D51;
+}
+.btn-orange:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #ef6d51a6;
+    -moz-box-shadow: 0px 0px 0px 3px #ef6d51a6;
+    box-shadow: 0px 0px 0px 3px #ef6d51a6;
+}
+
+
+.btn-dark{
+    background-color: #18191ae6;
+}
+.btn-dark:hover{
+    background-color: #18191a;
+}
+.btn-dark:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #18191a91;
+    -moz-box-shadow: 0px 0px 0px 3px #18191a91;
+    box-shadow: 0px 0px 0px 3px #18191a91;
+}
+
+
+.btn-light{
+    background-color: #f8f9faf5;
+    color: #18191a;
+}
+.btn-light:hover{
+    background-color: #f8f9fa;
+}
+.btn-light:active{
+    -webkit-box-shadow: 0px 0px 0px 3px #f8f9fa6b;
+    -moz-box-shadow: 0px 0px 0px 3px #f8f9fa6b;
+    box-shadow: 0px 0px 0px 3px #f8f9fa6b;
+}
