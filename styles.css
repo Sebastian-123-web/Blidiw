@@ -1,7 +1,7 @@
 body{
     font-family: arial;
     margin: 0;
-    background-color: #18191a;
+    background-color: white;
     color: white;
 }
 
@@ -69,9 +69,9 @@ body{
     background-color: #7d7c7c;
 }
 .btn:active{
-    -webkit-box-shadow: 0px 0px 0px 3px #7d7c7c96;
-    -moz-box-shadow: 0px 0px 0px 3px #7d7c7c7a;
-    box-shadow: 0px 0px 0px 3px #7d7c7c80;
+    -webkit-box-shadow: 0px 0px 0px 3px #9b9b9b61;
+    -moz-box-shadow: 0px 0px 0px 3px #9b9b9b61;
+    box-shadow: 0px 0px 0px 3px #9b9b9b61;
 }
 
 
@@ -95,9 +95,9 @@ body{
     background-color: #e31d1ae3;
 }
 .btn-red:active{
-    -webkit-box-shadow: 0px 0px 0px 3px #e31d1a8c;
-    -moz-box-shadow: 0px 0px 0px 3px #e31d1a8c;
-    box-shadow: 0px 0px 0px 3px #e31d1a8c;
+    -webkit-box-shadow: 0px 0px 0px 3px #e31d1a59;
+    -moz-box-shadow: 0px 0px 0px 3px #e31d1a59;
+    box-shadow: 0px 0px 0px 3px #e31d1a59;
 }
 
 
@@ -108,9 +108,9 @@ body{
     background-color: #e2ac2de6;
 }
 .btn-yellow:active{
-    -webkit-box-shadow: 0px 0px 0px 3px #e2ac2d99;
-    -moz-box-shadow: 0px 0px 0px 3px #e2ac2d99;
-    box-shadow: 0px 0px 0px 3px #e2ac2d99;
+    -webkit-box-shadow: 0px 0px 0px 3px #e2ac2d4d;
+    -moz-box-shadow: 0px 0px 0px 3px #e2ac2d4d;
+    box-shadow: 0px 0px 0px 3px #e2ac2d4d;
 }
 
 
@@ -121,9 +121,9 @@ body{
     background-color: #008440e8;
 }
 .btn-green:active{
-    -webkit-box-shadow: 0px 0px 0px 3px #016933b0;
-    -moz-box-shadow: 0px 0px 0px 3px #016933b0;
-    box-shadow: 0px 0px 0px 3px #016933b0;
+    -webkit-box-shadow: 0px 0px 0px 3px #00844061;
+    -moz-box-shadow: 0px 0px 0px 3px #00844061;
+    box-shadow: 0px 0px 0px 3px #00844061;
 }
 
 
@@ -134,9 +134,9 @@ body{
     background-color: #ef6d51e0;
 }
 .btn-orange:active{
-    -webkit-box-shadow: 0px 0px 0px 3px #ef6d51a6;
-    -moz-box-shadow: 0px 0px 0px 3px #ef6d51a6;
-    box-shadow: 0px 0px 0px 3px #ef6d51a6;
+    -webkit-box-shadow: 0px 0px 0px 3px #ef6d515e;
+    -moz-box-shadow: 0px 0px 0px 3px #ef6d515e;
+    box-shadow: 0px 0px 0px 3px #ef6d515e;
 }
 
 
@@ -161,9 +161,9 @@ body{
     background-color: #f8f9fae0;
 }
 .btn-light:active{
-    -webkit-box-shadow: 0px 0px 0px 3px #f8f9fa6b;
-    -moz-box-shadow: 0px 0px 0px 3px #f8f9fa6b;
-    box-shadow: 0px 0px 0px 3px #f8f9fa6b;
+    -webkit-box-shadow: 0px 0px 0px 3px #f8f9fa5c;
+    -moz-box-shadow: 0px 0px 0px 3px #f8f9fa5c;
+    box-shadow: 0px 0px 0px 3px #f8f9fa5c;
 }
 
 
